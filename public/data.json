@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/donation/cloth.jpg",
+    "title": "Used clothing drive",
+    "description": "Clothing is a basic human need, essential for protection from the elements, hygiene, and modesty. However, many people around the world do not have access to adequate clothing. This can be due to poverty, climate change, or other factors.",
+    "price": "50",
+    "category": "Clothing",
+    "cardBgColor": "rgba(121, 194, 63, 0.15)",
+    "cardTextColor": "rgba(121, 194, 63, 1)",
+    "cardCategoryBgColor": "rgba(121, 194, 63, 0.20)"
+  },
+  {
+    "id": 2,
+    "image": "/assets/donation/education.jpg",
+    "title": "Quality education",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": "10",
+    "category": "Education",
+    "cardBgColor": "#ff444a26",
+    "cardTextColor": "#ff444a",
+    "cardCategoryBgColor": "#ff444a33"
+  },
+  {
+    "id": 3,
+    "image": "/assets/donation/food.jpg",
+    "title": "Healthy food for everyone",
+    "description": "Food is another basic human need, essential for survival and health. However, many people around the world do not have access to enough food, or to nutritious food. This can be due to poverty, conflict, climate change, or other factors.",
+    "price": "20",
+    "category": "Food",
+    "cardBgColor": "rgba(248, 113, 71, 0.15)",
+    "cardTextColor": "rgba(248, 113, 71, 1)",
+    "cardCategoryBgColor": "rgba(248, 113, 71, 0.20)"
+  },
+  {
+    "id": 4,
+    "image": "/assets/donation/health.jpg",
+    "title": "Pure water for everyone",
+    "description": "Governments play a vital role in ensuring health for all. They can invest in public health programs and infrastructure, such as hospitals, clinics, and preventive care services. They can also provide financial assistance to people who cannot afford health care, and regulate the health care industry to ensure that it is affordable and accessible.",
+    "price": 30,
+    "category": "Health",
+    "cardBgColor": "#0052ff26",
+    "cardTextColor": "#0052ff",
+    "cardCategoryBgColor": "#0052ff33"
+  },
+  {
+    "id": 5,
+    "image": "/assets/donation/health.jpg",
+    "title": "Clean water for all",
+    "description": "Governments play a vital role in ensuring health for all. They can invest in public health programs and infrastructure, such as hospitals, clinics, and preventive care services. They can also provide financial assistance to people who cannot afford health care, and regulate the health care industry to ensure that it is affordable and accessible.",
+    "price": 40,
+    "category": "Health",
+    "cardBgColor": "#0052ff26",
+    "cardTextColor": "#0052ff",
+    "cardCategoryBgColor": "#0052ff33"
+  },
+  {
+    "id": 6,
+    "image": "/assets/donation/food.jpg",
+    "title": "Providing nutritious meals",
+    "description": "Food is another basic human need, essential for survival and health. However, many people around the world do not have access to enough food, or to nutritious food. This can be due to poverty, conflict, climate change, or other factors.",
+    "price": "10",
+    "category": "Food",
+    "cardBgColor": "rgba(248, 113, 71, 0.15)",
+    "cardTextColor": "rgba(248, 113, 71, 1)",
+    "cardCategoryBgColor": "rgba(248, 113, 71, 0.20)"
+  },
+  {
+    "id": 7,
+    "image": "/assets/donation/cloth.jpg",
+    "title": "Donate clothes for a cause",
+    "description": "Help those in need by donating your gently used clothes. Clothing is a basic human need, essential for protection from the elements, hygiene, and modesty. However, many people around the world do not have access to adequate clothing. Your donation can make a difference in their lives. Join us in our clothing drive and contribute to this worthy cause.",
+    "price": "20",
+    "category": "Clothing",
+    "cardBgColor": "rgba(121, 194, 63, 0.15)",
+    "cardTextColor": "rgba(121, 194, 63, 1)",
+    "cardCategoryBgColor": "rgba(121, 194, 63, 0.20)"
+  },
+  {
+    "id": 8,
+    "image": "/assets/donation/education.jpg",
+    "title": "Access to Quality Education",
+    "description": "Access to quality education is essential for the development and empowerment of individuals. It enables individuals to acquire knowledge, skills, and competencies that are necessary for personal growth, employment, and active participation in society. Governments, families, and teachers play a crucial role in ensuring that everyone has equal opportunities to receive a good education and reach their full potential.",
+    "price": "60",
+    "category": "Education",
+    "cardBgColor": "#ff444a26",
+    "cardTextColor": "#ff444a",
+    "cardCategoryBgColor": "#ff444a33"
+  },
+
+  {
+    "id": 9,
+    "image": "/assets/donation/education.jpg",
+    "title": "Equal access to education",
+    "description": "Equal access to education is crucial for the development and empowerment of individuals. It ensures that everyone, regardless of their background or circumstances, has the opportunity to acquire knowledge, skills, and competencies necessary for personal growth, employment, and active participation in society. Governments, communities, and educators play a vital role in creating inclusive educational environments and providing support to ensure that every individual can reach their full potential.",
+    "price": "50",
+    "category": "Education",
+    "cardBgColor": "#ff444a26",
+    "cardTextColor": "#ff444a",
+    "cardCategoryBgColor": "#ff444a33"
+  },
+  {
+    "id": 10,
+    "image": "/assets/donation/food.jpg",
+    "title": "Promoting Healthy Eating Habits",
+    "description": "Promoting healthy eating habits is crucial for individuals to maintain good health and well-being. Access to nutritious food is essential for everyone, but unfortunately, many people around the world face challenges in accessing enough healthy food. This can be due to various factors such as poverty, limited availability, or lack of knowledge about healthy food choices. By supporting initiatives that promote healthy eating habits, we can contribute to improving the overall health of individuals and communities.",
+    "price": "30",
+    "category": "Food",
+    "cardBgColor": "rgba(248, 113, 71, 0.15)",
+    "cardTextColor": "rgba(248, 113, 71, 1)",
+    "cardCategoryBgColor": "rgba(248, 113, 71, 0.20)"
+  },
+  {
+    "id": 11,
+    "image": "/assets/donation/cloth.jpg",
+    "title": "Support the clothing drive",
+    "description": "Help those in need by donating your gently used clothes. Clothing is a basic human need, essential for protection from the elements, hygiene, and modesty. However, many people around the world do not have access to adequate clothing. Your donation can make a difference in their lives. Join us in our clothing drive and contribute to this worthy cause.",
+    "price": "20",
+    "category": "Clothing",
+    "cardBgColor": "rgba(121, 194, 63, 0.15)",
+    "cardTextColor": "rgba(121, 194, 63, 1)",
+    "cardCategoryBgColor": "rgba(121, 194, 63, 0.20)"
+  },
+  {
+    "id": 12,
+    "image": "/assets/donation/health.jpg",
+    "title": "Access to Clean Water",
+    "description": "Access to clean and safe drinking water is a fundamental human right. Many people around the world lack access to clean water, which can lead to various health issues. Governments and organizations can play a crucial role in ensuring that everyone has access to clean water by investing in water infrastructure, implementing water purification systems, and promoting water conservation practices.",
+    "price": 70,
+    "category": "Health",
+    "cardBgColor": "#0052ff26",
+    "cardTextColor": "#0052ff",
+    "cardCategoryBgColor": "#0052ff33"
+  }
+]
